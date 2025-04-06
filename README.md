@@ -34,12 +34,6 @@ With real-time location tracking, driver information, and quick communication fe
 
 ---
 
-## 📸 Screenshots
-
-*(Insert screenshots here — optional but recommended)*
-
----
-
 ## 📥 Download APK
 
 > Click below to download and test the app on any Android device (Android 7.0+)
