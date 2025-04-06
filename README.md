@@ -44,7 +44,7 @@ With real-time location tracking, driver information, and quick communication fe
 
 > Click below to download and test the app on any Android device (Android 7.0+)
 
-[**⬇️ Download Latest APK**](https://civiccare.netlify.app/)
+[**⬇️Click Here To **](https://civiccare.netlify.app/)
 
 ---
 
