@@ -1,4 +1,4 @@
-# 🚑 Smart Rural Ambulance App
+# 🚑 CivicCare Mobile Application
 
 > Bridging the gap between emergency needs and remote accessibility.  
 > An Android application that turns any normal vehicle into a life-saving ambulance for rural areas.
